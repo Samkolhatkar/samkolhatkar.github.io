@@ -16,12 +16,13 @@ Contact: sampadak94 (at) zedat.fu-berlin.de
 Education
 ---------------
 
-- Masters, Mathematics, [Freie  Universität Berlin](https://www.mi.fu-berlin.de/math/index.html), Germany
-	- Thesis: Bivariate Chromatic Polynomials of Mixed Graphs
-	- Advisor: [Prof. Matthias Beck](https://matthbeck.github.io/), San Francisco State University
+- M.Sc. Mathematics<br />  [Freie  Universität Berlin](https://www.mi.fu-berlin.de/math/index.html), Germany <br /> 
+	Thesis: Bivariate Chromatic Polynomials of Mixed Graphs [[PDF]](https://matthbeck.github.io/teach/masters/sampada.pdf) <br /> 
+	Advisor: [Prof. Matthias Beck](https://matthbeck.github.io/), San Francisco State University
 
 
-- Four year Bachelor of Science(Research), Mathematics Major, [Indian Institute of Science, Bangalore](https://iisc.ac.in/), India
+- Four-Year Bachelor of Science (Research), Mathematics Major <br /> 
+	 [Indian Institute of Science, Bangalore](https://iisc.ac.in/), India
 
 
 
