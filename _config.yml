@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-IN"
+locale                   : "en-US"
 title                    : "Sampada Kolhatkar"
 title_separator          : "-"
 name                     : &name "Sampada Kolhatkar"
@@ -17,7 +17,7 @@ repository               : "Samkolhatkar/samkolhatkar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -83,10 +83,10 @@ author:
   name             : "Sampada Kolhatkar"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Berlin/Mumbai"
+  location         : #"Location"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sampada-kolhatkar-048a03125/"
-  orcid            : 
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -175,14 +175,14 @@ kramdown:
 
 # Collections
 collections:
-  teaching: 
-    output: 
+  teaching:
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio: false
-    output: false
+  portfolio:
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -210,7 +210,7 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope: false
+  - scope:
       path: ""
       type: teaching
     values:
