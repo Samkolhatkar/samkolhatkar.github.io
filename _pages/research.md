@@ -7,17 +7,17 @@ author_profile: true
 
 
 
-I am interested in Geometric and Enumerative Combinatorics, Ehrhart Theory, Convex and Discrete Geometry. I am also interested in Optimization with its application to Public Transport Networks. 
+I am interested in Geometric Combinatorics, Ehrhart Theory and Discrete Geometry. I am also interested in Discrete Optimization with its application to Public Transport Networks. 
 
 ____________
 
-**Masters Thesis**
+**Master's Thesis**
 =====
 
 **Bivariate Chromatic Polynomials of Mixed Graphs** [[PDF](https://matthbeck.github.io/teach/masters/sampada.pdf)]
 -------------
 
-For an undirected graph $G = (V, E)$, the chromatic polynomial counts the number of vertex colourings as a function of the number of colours. Stanley’s reciprocity theorem connects the chromatic polynomial with the enumeration of acyclic orientations of the graph $G$. Beck, Bogart, and Pham proved the analogue of this reciprocity theorem for the strong chromatic polynomials for a mixed graph $G = (V, E, A)$. Dohmen–Pönitz–Tittmann provided a new two-variable generalization of the chromatic polynomial of undirected graphs. 
+For an undirected graph $G = (V, E)$, the chromatic polynomial counts the number of proper vertex colourings as a function of the number of colours. Stanley’s reciprocity theorem connects the chromatic polynomial with the enumeration of acyclic orientations of the graph $G$. Beck, Bogart, and Pham proved the analogue of this reciprocity theorem for the strong chromatic polynomials for a mixed graph $G = (V, E, A)$. Dohmen–Pönitz–Tittmann provided a new two-variable generalization of the chromatic polynomial of undirected graphs. 
 
 We extend this bivariate chromatic polynomial to mixed graphs, provide deletion-contraction formulae and prove a theorem which enumerates the chromatic polynomial of mixed graphs via the decomposition into the sum of bivariate order polynomials. Using this decomposition, we also prove a reciprocity result for the bivariate chromatic polynomials of mixed graphs. 
 	
