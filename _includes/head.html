@@ -21,3 +21,7 @@
 <meta http-equiv="cleartype" content="on">
 
 <meta name="google-site-verification" content="Ldi2EvcyDK34HlJGQ3Tlan_Wf4U45IQ725PzZzQ9HX8" />
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
