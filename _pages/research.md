@@ -16,8 +16,7 @@ ____________
 
 **Bivariate Chromatic Polynomials of Mixed Graphs** [[PDF](https://matthbeck.github.io/teach/masters/sampada.pdf)]
 -------------
-<br /> 
-	**Advisor**: [Prof. Matthias Beck](https://matthbeck.github.io/), San Francisco State University 
+<br /> **Advisor**: [Prof. Matthias Beck](https://matthbeck.github.io/), San Francisco State University <br /> 
 	
 <!-- For an undirected graph $G = (V, E)$, the chromatic polynomial counts the number of proper vertex colourings as a function of the number of colours. Stanley’s reciprocity theorem connects the chromatic polynomial with the enumeration of acyclic orientations of the graph $G$. Beck, Bogart, and Pham proved the analogue of this reciprocity theorem for the strong chromatic polynomials for a mixed graph $G = (V, E, A)$. Dohmen–Pönitz–Tittmann provided a new two-variable generalization of the chromatic polynomial of undirected graphs. 
 
