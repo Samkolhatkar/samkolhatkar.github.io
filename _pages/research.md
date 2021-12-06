@@ -14,7 +14,7 @@ ____________
 **Master's Thesis**
 =====
 
-**Bivariate Chromatic Polynomials of Mixed Graphs** [[PDF](https://matthbeck.github.io/teach/masters/sampada.pdf)]
+**Bivariate Chromatic Polynomials of Mixed Graphs** [[PDF](https://samkolhatkar.github.io/files/MasterThesis.pdf)]
 -------------
 <br /> **Advisor**: [Prof. Matthias Beck](https://matthbeck.github.io/), San Francisco State University <br /> 
 	

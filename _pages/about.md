@@ -20,7 +20,7 @@ Preprint
 Education
 ---------------
 
-- M.Sc. Mathematics<br />  [Freie  Universität Berlin](https://www.mi.fu-berlin.de/math/index.html), Germany <br /> 
+- Master of Science in Mathematics<br />  [Freie  Universität Berlin](https://www.mi.fu-berlin.de/math/index.html), Germany <br /> 
 	<!-- Thesis: Bivariate Chromatic Polynomials of Mixed Graphs [[PDF]](https://matthbeck.github.io/teach/masters/sampada.pdf) <br /> 
 	Advisor: [Prof. Matthias Beck](https://matthbeck.github.io/), San Francisco State University -->
 
