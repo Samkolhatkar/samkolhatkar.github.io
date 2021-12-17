@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-I am interested in Geometric Combinatorics, Ehrhart Theory and Discrete Geometry. I am also interested in Discrete Optimization with its application to Public Transport Networks. 
+I am interested in Geometric and Enumerative Combinatorics, Ehrhart Theory and Discrete Geometry. I am also interested in Discrete Optimization with its application to Public Transport Networks. 
 
 ____________
 
