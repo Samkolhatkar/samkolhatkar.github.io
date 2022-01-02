@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-My contact: kolhatkarsampada (at) gmail (dot) com 
+**Contact:** kolhatkarsampada (at) gmail (dot) com 
 
 -----------------
 

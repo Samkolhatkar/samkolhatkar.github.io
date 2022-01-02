@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Research Interests'
+title: 'Research Topics'
 permalink: /research/
 author_profile: true
 ---
@@ -9,8 +9,8 @@ author_profile: true
 
 
 
-**Research Topics**
-==========
+<!--**Research Topics**
+==========-->
 - Enumerative and Geometric Combinatorics
 - Ehrhart Theory, Lattice-point Enumeration, Combinatorial Reciprocity Theory
 - Discrete Geometry and Polytope Theory
@@ -32,6 +32,8 @@ We extend this bivariate chromatic polynomial to mixed graphs, provide deletion-
 See also our [joint paper](https://arxiv.org/abs/2111.09384) 
 
 **Abstract**: The bivariate chromatic polynomial $\chi_G(x,y)$ of a graph $G=(V,E)$, introduced by Dohmen-Pönitz-Tittmann (2003), counts all $x-$colorings of $G$ such that adjacent vertices get different colours if they are $\leq y$. We extend this notion to mixed graphs, which have both directed and undirected edges. Our main results is a decomposition formula which expresses $\chi_G(x,y)$ as a sum of bivariate order polynomials (Beck-Farahmand-Karunaratne-Zuniga Ruiz 2020), and a combinatorial reciprocity theorem for $\chi_G(x,y)$.
+
+
 ____________	
 
 

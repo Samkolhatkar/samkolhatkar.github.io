@@ -6,15 +6,20 @@ author_profile: true
 ---
 
 
-* Villa Student Seminar, [Discrete Geometry Group](https://www.mi.fu-berlin.de/en/math/groups/discgeom/index.html), FU Berlin,  October 2021
-* [Oneirix Labs](http://www.oneirix.com/), August 2021
-* [Facets of Complexity RTG](http://www.facetsofcomplexity.de/monday/20210104-L-Kolhatkar.html), Berlin, January 2021
+* **Bivariate Chromatic Polynomials of Mixed Graphs**
+	* [Oneirix Labs](http://www.oneirix.com/), August 2021
+	* [Villa Student Seminar](https://wikis.fu-berlin.de/display/discgeom/Student+Seminar+Winter+2020), [Discrete Geometry Group](https://www.mi.fu-berlin.de/en/math/groups/discgeom/index.html), FU Berlin,  January 2021
+	* [Facets of Complexity RTG](http://www.facetsofcomplexity.de/monday/20210104-L-Kolhatkar.html), Berlin, January 2021
 
+
+* **Exploring Bivariate Reciprocity** 
+	* Villa Student Seminar, [Discrete Geometry Group](https://www.mi.fu-berlin.de/en/math/groups/discgeom/index.html), FU Berlin,  October 2021
 
 _________________________
 
 **Seminar Talks**
 =====
+
 
 
 
