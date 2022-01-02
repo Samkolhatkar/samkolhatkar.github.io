@@ -12,8 +12,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "Activities"
+    url: /activities/
         
   - title: "Personal"
     url: /personal/

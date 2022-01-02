@@ -10,12 +10,21 @@ redirect_from:
 
 Hi!
 
-Contact: kolhatkarsampada (at) gmail (dot) com 
+My contact: kolhatkarsampada (at) gmail (dot) com 
+
+-----------------
 
 Preprint
 ---------------
 [Bivariate Chromatic Polynomials of Mixed Graphs](https://arxiv.org/pdf/2111.09384.pdf) with [Matthias Beck](https://matthbeck.github.io/) <br /> arXiv:[2111.09384](https://arxiv.org/abs/2111.09384) <br /> 
 
+-----------------
+
+Research Interests
+-----------------
+I am interested in Geometric and Enumerative Combinatorics, Ehrhart Theory and Discrete Geometry. I am also interested in Discrete Optimization with its application to Public Transport Networks. 
+
+-----------------
 
 Education
 ---------------
