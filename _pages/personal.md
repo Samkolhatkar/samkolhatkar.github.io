@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: 'Writing'
+title: 'Miscellaneous'
 permalink: /personal/
 author_profile: true
 ---
 
-
+**Writing**
+--------
 
 I have been writing about science and mathematics in Marathi for past few years. Some of these articles can be found here. 
 
@@ -14,3 +15,13 @@ I have been writing about science and mathematics in Marathi for past few years.
  <br />  A series of articles about origin and evolution of the Earth.
 
 ______________________________
+
+
+**Links**
+--------
+
+'Lattice point enumerator' Friends
+
+- [Sophia Elia](https://sophiasage.github.io/)
+- [Sophie Rehberg](https://www.sophie-rehberg.de/website/)
+- [Andrés R. Vindas Meléndez](https://math.berkeley.edu/~vindas/index.html)
