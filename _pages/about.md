@@ -12,6 +12,8 @@ Hi!
 
 **Contact:** kolhatkarsampada (at) gmail (dot) com 
 
+I am currently working as a Research Associate on Optimization Project at Oneirix Labs in Pune, India.
+
 -----------------
 
 Preprint
