@@ -14,7 +14,7 @@ author_profile: true
 - Enumerative and Geometric Combinatorics
 - Ehrhart Theory, Lattice-point Enumeration, Combinatorial Reciprocity Theory
 - Discrete Geometry and Polytope Theory
-- Discrete Optimization with applications to Public Transport Networks
+- Discrete Optimization with applications to Scheduling problems and Public Transport Networks
 
 ____________
 
@@ -36,10 +36,10 @@ See also our [joint paper](https://arxiv.org/abs/2111.09384)
 
 ____________	
 
-
+<!--
 **Projects**
 =====	
 
-As a part of a group from the [REACT](https://sites.google.com/view/react-2021/home-page) workshop, we are working on a project related to order polytopes and Ehrhart theory. 
+As a part of a group from the [REACT](https://sites.google.com/view/react-2021/home-page) workshop, we are working on a project related to order polytopes and Ehrhart theory. -->
 	
 

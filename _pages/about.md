@@ -12,19 +12,19 @@ Hi!
 
 **Contact:** kolhatkarsampada (at) gmail (dot) com 
 
-I am currently working as a Research Associate on Optimization Project at Oneirix Labs in Pune, India.
+I am currently working as a Research Associate on an Optimization Project at [Oneirix Labs](https://www.oneirix.com/) in Pune, India.
 
 -----------------
 
-Preprint
+Publication
 ---------------
-[Bivariate Chromatic Polynomials of Mixed Graphs](https://arxiv.org/pdf/2111.09384.pdf) with [Matthias Beck](https://matthbeck.github.io/) <br /> arXiv:[2111.09384](https://arxiv.org/abs/2111.09384) <br /> 
+[Bivariate Chromatic Polynomials of Mixed Graphs](https://arxiv.org/pdf/2111.09384.pdf) with [Matthias Beck](https://matthbeck.github.io/) <br /> to appear in  [Discrete Mathematics & Theoretical Computer Science](https://dmtcs.episciences.org/).
 
 -----------------
 
 Research Interests
 -----------------
-I am interested in Geometric and Enumerative Combinatorics, Ehrhart Theory and Discrete Geometry. I am also interested in Discrete Optimization with its application to Public Transport Networks. 
+I am interested in Geometric and Enumerative Combinatorics, Ehrhart Theory and Discrete Geometry. I am also interested in Discrete Optimization with its application to Scheduling problems and Public Transport Networks. 
 
 -----------------
 

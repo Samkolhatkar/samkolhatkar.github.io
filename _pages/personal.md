@@ -20,7 +20,7 @@ ______________________________
 **Other**
 --------
 
-I am currently studying about the ecology and environment in the Ten month Post-graduate program **"Sustainable Management of Natural Resources & Nature Conservation"** _[Online]_ offered by the [Ecological Society, Pune](https://www.theecologicalsociety.org/).
+I am interested in studying about the ecology and environment.  <br /> I recently completed the Ten month Post-graduate program [**"Sustainable Management of Natural Resources & Nature Conservation"**](https://www.theecologicalsociety.org/education) _[Online]_ offered by the [Ecological Society, Pune](https://www.theecologicalsociety.org/). _(Batch 2022-23)_
 
 ______________________________
 
