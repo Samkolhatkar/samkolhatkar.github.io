@@ -12,13 +12,13 @@ Hi!
 
 **Contact:** kolhatkarsampada (at) gmail (dot) com 
 
-I am currently working as a Research Associate on an Optimization Project at [Oneirix Labs](https://www.oneirix.com/) in Pune, India.
+I am currently working as a Research Associate at [Oneirix Labs](https://www.oneirix.com/) in Pune, India.
 
 -----------------
 
 Publication
 ---------------
-[Bivariate Chromatic Polynomials of Mixed Graphs](https://arxiv.org/pdf/2111.09384.pdf) with [Matthias Beck](https://matthbeck.github.io/) <br /> to appear in  [Discrete Mathematics & Theoretical Computer Science](https://dmtcs.episciences.org/).
+[Bivariate Chromatic Polynomials of Mixed Graphs](https://arxiv.org/pdf/2111.09384.pdf) with [Matthias Beck](https://matthbeck.github.io/) <br /> [_Discrete Mathematics & Theoretical Computer Science_](https://dmtcs.episciences.org/11704) 25 (2023), no 2, Article 2 (10 pages)..
 
 -----------------
 
